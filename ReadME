@@ -1,0 +1,10 @@
+# 자바 설치
+https://java.com/ko/download/help/linux_x64_install.xml
+
+# 명령어
+
+apt-get install android-sdk
+apt-get install openjdk-8-jre openjdk-8-jdk
+apt-get install libstdc++6
+android update sdk --no-ui
+android
